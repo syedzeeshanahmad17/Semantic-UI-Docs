@@ -25,7 +25,7 @@ type        : 'UI Module'
       <h4 class="ui header">Standard</h4>
       <p>A search can display a set of results</p>
       <div class="ui search">
-        <input class="prompt" type="text" placeholder="Common passwords...">
+        <input class="prompt" type="text" placeholder="Common passwords..."/>
         <div class="results"></div>
       </div>
     </div>
@@ -49,7 +49,7 @@ type        : 'UI Module'
       <p>A search can display results from remote content ordered by categories</p>
       <div class="ui category search">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search animals...">
+          <input class="prompt" type="text" placeholder="Search animals..."/>
           <i class="search icon"></i>
         </div>
         <div class="results"></div>
@@ -65,7 +65,7 @@ type        : 'UI Module'
       </div>
       <div class="ui search">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search countries...">
+          <input class="prompt" type="text" placeholder="Search countries..."/>
           <i class="search icon"></i>
         </div>
         <div class="results"></div>
@@ -164,7 +164,7 @@ type        : 'UI Module'
       <div class="ui search selection">
         <input type="hidden">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search countries...">
+          <input class="prompt" type="text" placeholder="Search countries..."/>
           <i class="remove icon"></i>
         </div>
         <div class="results"></div>
@@ -182,7 +182,7 @@ type        : 'UI Module'
       <div class="ui search selection">
         <input type="hidden">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search countries...">
+          <input class="prompt" type="text" placeholder="Search countries..."/>
           <i class="search icon"></i>
           <i class="remove icon"></i>
         </div>
@@ -194,7 +194,7 @@ type        : 'UI Module'
       <div class="ui search selection">
         <input type="hidden">
         <div class="ui left icon input">
-          <input class="prompt" type="text" placeholder="Search countries...">
+          <input class="prompt" type="text" placeholder="Search countries..."/>
           <i class="search icon"></i>
           <i class="remove icon"></i>
         </div>
@@ -208,7 +208,7 @@ type        : 'UI Module'
       <p>A search can show a loading indicator</p>
       <div class="ui loading search">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search...">
+          <input class="prompt" type="text" placeholder="Search..."/>
           <i class="search icon"></i>
         </div>
         <div class="results"></div>
@@ -225,7 +225,7 @@ type        : 'UI Module'
       <p>A search can show it is currently unable to be interacted with</p>
       <div class="ui disabled category search">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search animals...">
+          <input class="prompt" type="text" placeholder="Search animals..."/>
           <i class="search icon"></i>
         </div>
         <div class="results"></div>
@@ -237,7 +237,7 @@ type        : 'UI Module'
       <p>A search can have its results take up the width of its container</p>
       <div class="ui fluid category search">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search animals...">
+          <input class="prompt" type="text" placeholder="Search animals..."/>
           <i class="search icon"></i>
         </div>
         <div class="results"></div>
@@ -249,7 +249,7 @@ type        : 'UI Module'
       <p>A search can have its results aligned to its left or right container edge</p>
       <div class="ui right aligned category search">
         <div class="ui icon input">
-          <input class="prompt" type="text" placeholder="Search animals...">
+          <input class="prompt" type="text" placeholder="Search animals..."/>
           <i class="search icon"></i>
         </div>
         <div class="results"></div>
